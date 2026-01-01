@@ -1,9 +1,11 @@
 8-Bit CPU Design & Implementation
+
 A fully functional 8-bit CPU architecture designed and simulated from the ground up using Logisim. 
 This project demonstrates fundamental computer architecture concepts, including datapath management, instruction decoding, and arithmetic-logic synchronization.
 
 Architectural Overview
 <img width="315" height="384" alt="image" src="https://github.com/user-attachments/assets/d15aef08-8568-493c-8ec6-e6c223ecd260" />
+
 
 Key Components
 The processor is built with a modular approach, featuring the following custom-designed units:
