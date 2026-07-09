@@ -6,6 +6,8 @@ This project demonstrates fundamental computer architecture concepts, including 
 
 Architectural Overview
 <img width="315" height="384" alt="image" src="https://github.com/user-attachments/assets/d15aef08-8568-493c-8ec6-e6c223ecd260" />
+<img width="1778" height="907" alt="image" src="https://github.com/user-attachments/assets/83085af8-05c0-4981-ab5a-5c1f43e457ed" />
+
 
 
 Key Components
