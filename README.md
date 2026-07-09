@@ -23,5 +23,5 @@ Simulation Tool: Logisim Evolution / Classic.
 
 How to Run
 1) Download and install Logisim.ü
-2) Clone this repository: git clone https://github.com/yourusername/your-repo-name.git
+2) Clone this repository: git clone https://github.com/dunklesteos/your-repo-name.git
 3) Open the .circ file in Logisim to view the circuits and run simulations.
